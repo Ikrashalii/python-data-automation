@@ -1,0 +1,10 @@
+Transaction ID,Price,Date,Category
+T001,19.99,2024-01-15,electronics
+T002,,2024-03-22,Home & garden
+T003,45.5,2024/05/03,Electronics
+T004,12,2024-01-06,BOOKS
+T005,text price,2024-06-10,category MIX
+T001,999.00,2024-01-30,electronics
+T006,8.0,March 3 2024,books
+T007,100,2024-12-01,
+T008,7.5,,Kitchen
